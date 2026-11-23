@@ -1,11 +1,11 @@
 ## Hi, I'm José Carlos de Barros Júnior! 👋
 
-[cite_start]I'm a **Systems Analysis and Development** student at FATEC, currently focusing on building mobile and web applications. I am passionate about technology and constantly learning new tools to create efficient solutions.
+I'm a **Systems Analysis and Development** student at FATEC, currently focusing on building mobile and web applications. I am passionate about technology and constantly learning new tools to create efficient solutions.
 
 ---
 
 ### 🚀 About Me
-- [cite_start]🎓 Currently studying **Systems Analysis and Development** at FATEC.
+- 🎓 Currently studying **Systems Analysis and Development** at FATEC.
 - 📱 Deepening my knowledge in **Mobile Development** with **React Native & Expo**.
 - 💻 Building a solid foundation in **Java**, **HTML**, **CSS**, and **JavaScript**.
 
@@ -16,12 +16,12 @@
 - **Tools:** VS Code, Git, GitHub, Node.js.
 
 ### 📊 Current Goals
-- [ ] [cite_start]Complete my degree in Systems Analysis and Development.
+- [ ] Complete my degree in Systems Analysis and Development.
 - [ ] Build a portfolio of mobile projects with Expo.
-- [ ] [cite_start]Secure an Internship or Trainee position in the IT field.
+- [ ] Secure an Internship or Trainee position in the IT field.
 
 ### 📫 How to reach me:
-- [cite_start]**LinkedIn:** [José Carlos de Barros Junior](https://www.linkedin.com/in/jose-carlos-de-barros-junior/) 
+- **LinkedIn:** [José Carlos de Barros Junior](https://www.linkedin.com/in/jose-carlos-de-barros-junior/) 
 - [cite_start]**Email:** [Jcjunior1304@gmail.com](mailto:Jcjunior1304@gmail.com) 
 
 ---
